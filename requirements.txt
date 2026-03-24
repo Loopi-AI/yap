@@ -1,0 +1,11 @@
+faster-whisper
+sounddevice
+pynput
+pyautogui
+pyperclip
+pystray
+Pillow
+PyYAML
+numpy
+scipy
+pygame-ce

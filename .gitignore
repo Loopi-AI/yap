@@ -1,0 +1,35 @@
+# Logs
+*.log
+
+# Debug/test recordings
+debug_recording.wav
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller build artifacts
+build/
+dist/
+installer_output/
+*.spec
+
+# Inno Setup
+installer.iss
+
+# Build tooling
+build.py
+
+# Windows launcher (personal setup)
+launch.vbs
+
+# Dev notes
+HANDOFF.md
+
+# IDE
+.vscode/
+.idea/
+
+# Duplicate icon (cache workaround)
+assets/yap-icon.ico
