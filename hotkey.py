@@ -3,7 +3,7 @@ import logging
 from pynput import keyboard
 from recorder import Recorder
 
-log = logging.getLogger("WhisprLocal")
+log = logging.getLogger("Yap")
 
 
 class HotkeyListener:

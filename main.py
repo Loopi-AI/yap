@@ -167,7 +167,7 @@ def main():
     overlay = RecordingOverlay(recorder=recorder)
 
     # Language state
-    enabled_languages = config.get("languages", ["en", "da"])
+    enabled_languages = config.get("languages", ["en"])
     current_lang = [language]  # mutable container for closure — "auto" or a language code
     enabled = [True]  # mutable container for enable/disable toggle
 
