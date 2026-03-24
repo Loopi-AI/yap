@@ -3,5 +3,4 @@ hotkey: ctrl+windows
 language: auto
 languages:
 - en
-- da
 model: small
