@@ -31,7 +31,7 @@ Claude will read the `CLAUDE.md` and handle everything.
 1. Install [Python 3.11+](https://www.python.org/downloads/) (check "Add to PATH")
 2. Clone this repo:
    ```
-   git clone https://github.com/konraddahl/yap.git
+   git clone https://github.com/Loopi-AI/yap.git
    cd yap
    ```
 3. Install dependencies:

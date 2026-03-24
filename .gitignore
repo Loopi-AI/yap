@@ -27,6 +27,10 @@ launch.vbs
 # Dev notes
 HANDOFF.md
 
+# Environment
+.env
+.env.*
+
 # IDE
 .vscode/
 .idea/
